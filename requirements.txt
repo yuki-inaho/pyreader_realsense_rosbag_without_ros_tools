@@ -1,0 +1,6 @@
+opencv-python
+rosbags
+
+matplotlib
+pillow
+jupyterlab
